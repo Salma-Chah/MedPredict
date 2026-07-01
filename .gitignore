@@ -1,0 +1,33 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyc
+venv/
+env/
+.venv/
+*.egg-info/
+
+# MLflow
+mlruns/
+mlartifacts/
+
+# Modèles lourds (optionnel - décommentez si trop volumineux)
+# *.pkl
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Environnement / secrets
+.env
+*.log
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+
+# Docker
+*.pid

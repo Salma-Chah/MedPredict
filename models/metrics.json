@@ -1,0 +1,22 @@
+{
+  "RandomForest": {
+    "accuracy": 0.7803,
+    "precision": 0.5077,
+    "recall": 0.4712,
+    "f1": 0.4888,
+    "roc_auc": 0.7412
+  },
+  "XGBoost": {
+    "accuracy": 0.5805,
+    "precision": 0.3206,
+    "recall": 0.7883,
+    "f1": 0.4558,
+    "roc_auc": 0.7414
+  },
+  "best_model": "XGBoost",
+  "accuracy": 0.5805,
+  "precision": 0.3206,
+  "recall": 0.7883,
+  "f1": 0.4558,
+  "roc_auc": 0.7414
+}
